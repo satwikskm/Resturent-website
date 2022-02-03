@@ -475,8 +475,8 @@ body{
 @media (max-width:450px){
     .img-text{
         position: absolute;
-        top: 4rem;
-        left: 3rem;
+        top: 5rem;
+        left: 2.5rem;
         color: black;
         display: grid;
         grid-row-gap: 20px;
