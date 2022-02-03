@@ -471,3 +471,24 @@ body{
 
 
 }
+
+@media (max-width:450px){
+    .img-text{
+        position: absolute;
+        top: 4rem;
+        left: 3rem;
+        color: black;
+        display: grid;
+        grid-row-gap: 20px;
+        
+    }
+    .img-text-txt-1  {
+        
+        font-size: 30px;
+    }
+    
+    .img-text-txt-2  {
+        font-size: 20px;
+    }
+
+}
